@@ -88,7 +88,7 @@ Hereby listed manual way to setup:-
 
 #### VIDEO - [Watch the video](https://user-images.githubusercontent.com/92365361/174068783-b234d5d4-7afc-4128-971c-5a2d2f8e6c2c.mp4)
 
-_Video Last Updated on 7th March, 2022_
+_Video Last Updated on 16th June, 2022_
 
 #### IMAGES
 
