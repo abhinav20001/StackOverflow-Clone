@@ -10,7 +10,7 @@ https://user-images.githubusercontent.com/43780137/158059050-481ffa30-e415-4156-
 [![MONGOOSE](https://img.shields.io/static/v1?label=mysql&message=6.3.8&color=success)](https://mongoosejs.com/)
 [![NODEMON](https://img.shields.io/static/v1?label=mysql&message=2.0.16&color=danger)](https://www.npmjs.com/package/nodemon)
 
-### [🌐 Website](https://stackoverflow-clone-client.vercel.app)  |  [📹 Demo Video](https://www.youtube.com/watch?v=bUAAgfGOfYg) 
+### [🌐 Website](https://stack-overflow-clone-mern.netlify.app)  |  [📹 Demo Video](https://www.youtube.com/watch?v=bUAAgfGOfYg) 
 
 # StackOverflow-Clone
 
