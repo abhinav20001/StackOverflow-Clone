@@ -1,4 +1,4 @@
-https://github.com/abhinav20001/StackOverflow-Clone/blob/main/demo/video/StackOverflow-Clone.mp4
+https://user-images.githubusercontent.com/92365361/174068783-b234d5d4-7afc-4128-971c-5a2d2f8e6c2c.mp4
 
 [![Version](https://img.shields.io/static/v1?label=version&message=1.0.0&color=blue)](https://www.npmjs.com/package/server/v/1.0.0)
 [![NODE](https://img.shields.io/static/v1?label=npm&message=16.5.0&color=warning)](https://nodejs.org/es/blog/release/v16.5.0/)
@@ -10,7 +10,7 @@ https://github.com/abhinav20001/StackOverflow-Clone/blob/main/demo/video/StackOv
 [![MONGOOSE](https://img.shields.io/static/v1?label=mysql&message=6.3.8&color=success)](https://mongoosejs.com/)
 [![NODEMON](https://img.shields.io/static/v1?label=mysql&message=2.0.16&color=danger)](https://www.npmjs.com/package/nodemon)
 
-### [🌐 Website](https://stack-overflow-clone-mern.netlify.app)  |  [📹 Demo Video](https://www.youtube.com/watch?v=bUAAgfGOfYg) 
+### [🌐 Website](https://stack-overflow-clone-mern.netlify.app)  |  [📹 Demo Video](https://user-images.githubusercontent.com/92365361/174068783-b234d5d4-7afc-4128-971c-5a2d2f8e6c2c.mp4) 
 
 # StackOverflow-Clone
 
@@ -86,7 +86,7 @@ Hereby listed manual way to setup:-
 
 ## DEMO
 
-#### VIDEO - [Watch the video](https://www.youtube.com/watch?v=bUAAgfGOfYg)
+#### VIDEO - [Watch the video](https://user-images.githubusercontent.com/92365361/174068783-b234d5d4-7afc-4128-971c-5a2d2f8e6c2c.mp4)
 
 _Video Last Updated on 7th March, 2022_
 
