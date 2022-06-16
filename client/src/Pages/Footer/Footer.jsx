@@ -11,7 +11,7 @@ const Footer = () => {
             <div className="socials">
                 <div className="social-item">
                     <a
-                        href='https://github.com/Mayank0255/Stackoverflow-Clone-Frontend'
+                        href='https://github.com/abhinav20001/StackOverflow-Clone/tree/main/client'
                         target='_blank'
                         rel="noreferrer"
                     >
@@ -21,7 +21,7 @@ const Footer = () => {
                 </div>
                 <div className="social-item">
                     <a
-                        href='https://github.com/Mayank0255/Stackoverflow-Clone-Backend'
+                        href='https://github.com/abhinav20001/StackOverflow-Clone/tree/main/server'
                         target='_blank'
                         rel="noreferrer"
                     >
