@@ -1,14 +1,14 @@
 https://user-images.githubusercontent.com/92365361/174068783-b234d5d4-7afc-4128-971c-5a2d2f8e6c2c.mp4
 
 [![Version](https://img.shields.io/static/v1?label=version&message=1.0.0&color=blue)](https://www.npmjs.com/package/server/v/1.0.0)
-[![NODE](https://img.shields.io/static/v1?label=npm&message=16.5.0&color=warning)](https://nodejs.org/es/blog/release/v16.5.0/)
-[![BCRYPTJS](https://img.shields.io/static/v1?label=node&message=2.4.3&color=success)](https://www.npmjs.com/package/bcryptjs)
-[![CORS](https://img.shields.io/static/v1?label=mysql&message=2.8.5&color=blueviolet)](https://www.npmjs.com/package/cors/v/2.8.5)
-[![DOTENV](https://img.shields.io/static/v1?label=mysql&message=16.0.1&color=danger)](https://www.npmjs.com/package/dotenv)
-[![EXPRESS](https://img.shields.io/static/v1?label=mysql&message=4.18.1&color=blue)](https://www.npmjs.com/package/express)
-[![JSONWEBTOKEN](https://img.shields.io/static/v1?label=mysql&message=8.5.1&color=warning)](https://www.npmjs.com/package/jsonwebtoken)
-[![MONGOOSE](https://img.shields.io/static/v1?label=mysql&message=6.3.8&color=success)](https://mongoosejs.com/)
-[![NODEMON](https://img.shields.io/static/v1?label=mysql&message=2.0.16&color=danger)](https://www.npmjs.com/package/nodemon)
+[![NODE](https://img.shields.io/static/v1?label=node&message=16.5.0&color=red)](https://nodejs.org/es/blog/release/v16.5.0/)
+[![BCRYPTJS](https://img.shields.io/static/v1?label=bcryptjs&message=2.4.3&color=yellow)](https://www.npmjs.com/package/bcryptjs)
+[![CORS](https://img.shields.io/static/v1?label=cors&message=2.8.5&color=green)](https://www.npmjs.com/package/cors/v/2.8.5)
+[![DOTENV](https://img.shields.io/static/v1?label=dotenv&message=16.0.1&color=orange)](https://www.npmjs.com/package/dotenv)
+[![EXPRESS](https://img.shields.io/static/v1?label=express&message=4.18.1&color=violet)](https://www.npmjs.com/package/express)
+[![JSONWEBTOKEN](https://img.shields.io/static/v1?label=jsonewbtoken&message=8.5.1&color=yellow)](https://www.npmjs.com/package/jsonwebtoken)
+[![MONGOOSE](https://img.shields.io/static/v1?label=mongoose&message=6.3.8&color=purple)](https://mongoosejs.com/)
+[![NODEMON](https://img.shields.io/static/v1?label=nodemon&message=2.0.16&color=brown)](https://www.npmjs.com/package/nodemon)
 
 ### [🌐 Website](https://stack-overflow-clone-mern.netlify.app)  |  [📹 Demo Video](https://user-images.githubusercontent.com/92365361/174068783-b234d5d4-7afc-4128-971c-5a2d2f8e6c2c.mp4) 
 
@@ -48,7 +48,7 @@ Hereby listed manual way to setup:-
    - Clone the code-
 
      ```
-     git clone https://github.com/Mayank0255/Stackoverflow-Clone-Backend.git
+     git clone https://github.com/abhinav20001/StackOverflow-Clone.git
      cd Stackoverflow-Clone
      ```
 
